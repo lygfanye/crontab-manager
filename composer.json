@@ -1,5 +1,5 @@
 {
-	"name": "troy/CrontabManager",
+	"name": "troy/crontab-manager",
 	"description": "a lib to control the crontab file",
 	"minimum-stability": "dev",
 	"version": "1.0.0",
